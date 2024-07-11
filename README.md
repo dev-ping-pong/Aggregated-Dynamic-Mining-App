@@ -1,1 +1,1 @@
-# PINGPONG-DePIN-Harvester
+# Aggregated & Dynamic Mining App
